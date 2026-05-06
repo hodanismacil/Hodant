@@ -32,5 +32,7 @@ I am a passionate **Frontend Developer** and **Data Analyst** focused on buildin
 - 💼 Working on: **Portfolio Projects & Remote Opportunities**
 - 💬 Ask me about: **React, CSS, or Data Dashboards**
 - ⚡ Fun Fact: I prefer writing clean code in **Dark Mode** 🌙
-
+### 🌐 Connect with Me
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/hodanismacil)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 ---
